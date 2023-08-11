@@ -1,2 +1,26 @@
 # E-Commerce Website 
- This is the repository for the E-Commerce T-shirts website, a fictional online store that offers a variety of trendy t-shirts, designs, hoodies, caps, and necklaces. The website showcases the latest fashion collections and provides a seamless shopping experience for users.About Fam T-shirts is an imaginary online clothing store dedicated to providing the latest fashion trends to customers worldwide. The website offers a wide range of products, including:  T-shirts Designs Hoodies Caps Necklaces With a user-friendly interface, users can easily explore and purchase their favorite items from the comfort of their homes. The website also includes features like free shipping, easy returns, and secure checkout options.  Features Browse and purchase a variety of clothing items and accessories. Explore the latest collections through an attractive image slider. Learn about the store's features such as free shipping, returns, and gift cards. View detailed product information, including images, prices, descriptions, colors, and sizes. Seamlessly navigate through different sections using the top navigation menu. Stay connected through social media links and newsletter subscriptions.
+E-COMMERCE T-SHIRT WEBSITE WITH HTML,CSS AND JAVASCRIPT
+
+This is the repository for the E-Commerce T-shirts website, Fam T-shirts is a fictional online clothing store showcasing various t-shirt designs, hoodies, caps, and more. This repository contains the HTML, CSS, and JavaScript code for the website.
+
+FEATURES
+
+-Browse through a collection of t-shirts, designs, hoodies, caps, and necklaces.
+
+-Explore the "New Season" collection for the latest styles.
+
+-Learn about the company and its products in the "About Us" section.
+
+-Easily subscribe to the newsletter for updates and promotions.
+
+-Contact customer support via the provided contact information.
+
+-Follow Fam T-shirts on social media platforms.
+
+SCREENSHOTS
+
+![Header](images/Preview.png)
+
+![Shopping](images/Preview2.png)
+
+![Footer](images/Preview3.png)
